@@ -31,3 +31,52 @@
     transform: rotate(360deg);
   }
 }
+
+.overlord{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+
+.players{
+  margin: 1% 1%;
+  text-align: center;
+  background-color: #282c34;
+  color:white;
+  width:10%;
+}
+
+
+.dark-mode__toggle {
+  background: papayawhip;
+  border-radius: 12px;
+  border: 1px solid black;
+  height: 20px;
+  position: relative;
+  width: 80px;
+}
+
+.toggle {
+  background: #f68819;
+  border-radius: 12px;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  transition: 0.2s;
+  width: 40px;
+}
+
+.toggled {
+  left: 36px;
+}
+
+.dark-mode {
+  color: #fff;
+  background-color: #313843;
+}
+  .navbar {
+    background-color: #1F2022;
+    border: none;
+  
+}
