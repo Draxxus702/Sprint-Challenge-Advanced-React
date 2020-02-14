@@ -49,7 +49,7 @@ justify-content: center;
 
 
 .dark-mode__toggle {
-  background: papayawhip;
+  background: green;
   border-radius: 12px;
   border: 1px solid black;
   height: 20px;
@@ -58,7 +58,7 @@ justify-content: center;
 }
 
 .toggle {
-  background: #f68819;
+  background: blue;
   border-radius: 12px;
   height: 18px;
   left: 0px;
